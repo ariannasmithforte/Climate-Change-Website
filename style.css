@@ -1,0 +1,162 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+  height: 100%;
+  box-sizing: border-box;
+  background-color:navy;
+ background-color: lightcyan; 
+ 
+  font-family: "Optima", sans-serif; 
+  font-size: 20px;  
+  line-height: 1.5em;
+  color: navy; 
+  text-align: center;
+}
+header{
+  padding-top: 50px;   
+  padding-left: 30%;
+  padding-right: 30%;
+  margin: 1px;         
+}
+
+main { 
+  padding-top: 25px;      
+  padding-bottom: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+ 
+  margin-left: 10%;
+  margin-right: 10%;          
+}
+/* STYLE TEXT */
+h1 {
+  font-family: "Optima", sans-serif;
+  font-size: 50px;
+  text-align: center;
+  color: #005a00;
+  line-height: 60px;
+  letter-spacing: 12px;
+ 
+  margin: 2px;
+}
+
+h2 {
+  font-family: "Optima", sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: #62BD69;
+  line-height: 1.3em;
+  letter-spacing: 3px;
+  
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h3 {
+  font-family: "Optima", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: #0D38D3;
+  line-height: 1.3em;
+  
+  padding-bottom: 15px;
+}
+
+
+
+.subtitle{
+  text-align: center;
+  font-size: 25px;
+  
+  padding-top: 20px;
+}
+
+.attribution {
+  font-size: 14px;
+  text-align: center;
+  
+  padding-top: 10px;
+}
+
+a {
+  color: #62BD69;
+}
+  
+
+/* STYLE NAV BAR */
+ul.nav-bar {
+  list-style-type: none;        
+  overflow: hidden;
+  
+  background-color: #62BD69;
+  border-style: solid;
+}
+
+li.nav-item {
+  display: inline;       
+  float: right;           
+  padding: 5px;
+}
+
+li.nav-item a { 
+  font-family: "Optima", sans-serif;
+  font-size: 15px;
+  color: #FFFFFF;
+  
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 16px;
+  padding-right: 16px;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+li.nav-item a:hover {
+  background-color: #0D38D3;
+  color: #0D38D3;
+}
+
+/* STYLE IMAGES */
+img {
+  display: block;      
+  width: 90%;          
+  height: auto;        
+  margin-left: auto;
+  margin-right: auto;
+  
+  border-style: solid;
+  border-color: #00a3d7;
+  border-width: 8px;
+  border-radius: 5px;
+}
+
+.flex-container {      
+  display: flex;       
+  flex-direction: row; 
+  flex-wrap: nowrap;   
+} 
+
+.flex-item {           
+  flex-basis: 100%;    
+  margin: 1%;          
+}
+
+
+/* STYLE BUTTONS */
+#myBtn {
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  margin-botton: 30px;
+  padding: 10px;
+
+  background-color: green;
+  font-size: 20px;
+  border-radius: 4px;
+}
+/* ADD MORE! */
