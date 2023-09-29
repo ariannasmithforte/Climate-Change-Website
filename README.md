@@ -7,4 +7,4 @@ Here is my climate change activism website that I designed and developed utilizi
 - The script.js holds the adds some interation to the website, in the random question generator in the bottom of the Home Screen, which has 6 different facts.
 - The style.css hold all of the code that changes the background color, the images displayed, the font/font color, and many other designs in the website.
 - Here below are the three images that I used in the website:
-1 <img width="813" alt="Screenshot 2023-09-29 at 5 02 59 PM" src="https://github.com/ariannasmithforte/Climate-Change-Website/assets/142956824/b26098ac-37c0-4a63-a736-5e33242ddc7b">
+- https://github.com/ariannasmithforte/Climate-Change-Website/assets/142956824/b26098ac-37c0-4a63-a736-5e33242ddc7b">
