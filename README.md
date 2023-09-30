@@ -10,3 +10,6 @@ Here is my climate change activism website that I designed and developed utilizi
 - Coral Reef.png <https://github.com/ariannasmithforte/Climate-Change-Website/assets/142956824/b26098ac-37c0-4a63-a736-5e33242ddc7b>
 - Drought.png <https://github.com/ariannasmithforte/Climate-Change-Website/assets/142956824/28a7db7a-7b12-4de0-81ed-4e1847fbf57a>
 - Ice Caps.png <https://github.com/ariannasmithforte/Climate-Change-Website/assets/142956824/f8d19d69-2438-431b-8362-c2bda0499dce>
+
+  
+<img width="1440" alt="Screenshot 2023-09-29 at 11 53 01 PM" src="https://github.com/ariannasmithforte/Climate-Change-Website/assets/142956824/8ecacc64-644a-42e1-bc11-7474f1773e7e">
